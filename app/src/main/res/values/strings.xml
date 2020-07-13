@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Camera2API</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="image_here">Image Here</string>
+    <string name="camer2api">Camer2API</string>
+    <string name="by_rahulhg">~By RahulHG</string>
+    <string name="backgroundinto">backgroundInto</string>
+    <string name="backroundcameraintro">backroundCameraIntro</string>
+</resources>
